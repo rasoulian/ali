@@ -1,1 +1,2 @@
 vless://0382a555-ef07-4f82-8371-de2ada53751b@mkh.rasoulian.ir:443?path=%2Fvless%2F0382a555-ef07-4f82-8371-de2ada53751b&security=tls&encryption=none&alpn=h2,http/1.1&host=tunnel.rasoulian.ir&fp=randomized&type=ws&sni=mkh.rasoulian.ir#tunnel.rasoulian.ir
+ss://YWVzLTI1Ni1nY206ZGM1NjJmYjctMzUyMy00MjEzLTljOWQtZTI4NjQzMWU3Mzdi@185.188.113.67:8080#ali111
